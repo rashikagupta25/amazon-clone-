@@ -1,4 +1,4 @@
-# amazon-clone- 
+# amazon-clone
 A simple Amazon-inspired homepage built using HTML & CSS, featuring a navigation bar.
 
 Features
